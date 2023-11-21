@@ -1,0 +1,11 @@
+[book]
+authors = []
+language = "en"
+multilingual = false
+src = "src"
+title = "The DOMINATOR cook book"
+description = "A getting started guide for the DOMINATOR rendering library"
+
+[output.html]
+git-repository-url = "https://github.com/Pauan/rust-dominator"
+
